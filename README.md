@@ -19,7 +19,7 @@ Convergence,and Spatial Effects: A Spatial Econometric Approach
 <https://rpubs.com/canimiranti/stata_spatial_panel_514districts>
 
 This work is licensed under the Creative Commons Attribution-Share Alike
-4.0 International License. ![](License.png)
+4.0 International License. ![](assets/License.png) 
 
 # Original data source
 
