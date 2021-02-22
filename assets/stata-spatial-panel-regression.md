@@ -13,9 +13,10 @@ a, a:hover {color: #8B3A62;}
 pre {font-size: 12px;}
 </style>
 
-Suggested citation: \> Miranti, Ragdad Cani. 2020. Regional Poverty,
+
+Suggested citation: Miranti, Ragdad Cani. 2020. Regional Poverty,
 Convergence,and Spatial Effects: A Spatial Econometric Approach
-<https://rpubs.com/canimiranti/stata_spatial_panel_convergence_514districts>
+<https://rpubs.com/canimiranti/stata_spatial_panel_514districts>
 
 This work is licensed under the Creative Commons Attribution-Share Alike
 4.0 International License. ![](License.png)
