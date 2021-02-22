@@ -1,0 +1,18 @@
+
+
+. **SAR Fixed Effect Model 
+. sysuse mymap_and_panel
+
+. 
+. **Import Wa ( our weight matrix) into our panel model. I rename with Wi
+. 
+. spmat import Wi using Wa
+
+. 
+. **Poverty rate
+. xsmle gpov ln_pov mys gdpgr unemp subs_rice gdi inv_shr shr_agr shr_ind, wmat (Wi) model (sar) fe type (ind) effects
+Iteration 0:   Log-likelihood =  8809.3045  
+Iteration 1:   Log-likelihood =  8832.5646  
+Iteration 2:   Log-likelihood =  8832.6339  
+Iteration 3:   Log-likelihood =  8832.6339  
+Computing marginal effects standard errors using MC simulation...

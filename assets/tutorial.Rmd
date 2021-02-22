@@ -1,0 +1,93 @@
+---
+title: "Tutorial"
+subtitle: "Using the  Package"
+author: "Carlos Mendez"
+output:
+  html_notebook:
+    code_folding: show
+    highlight: monochrome
+    number_sections: yes
+    theme: cosmo
+    toc: yes
+    toc_depth: 4
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+  html_document:
+    code_download: true
+    df_print: paged
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    toc_depth: 4
+    number_sections: true
+    code_folding: "show"
+    theme: "cosmo"
+    highlight: "monochrome"
+  pdf_document: default
+  word_document: default
+bibliography: biblio.bib
+---
+
+<style>
+h1.title {font-size: 18pt; color: DarkBlue;} 
+body, h1, h2, h3, h4 {font-family: "Palatino", serif;}
+body {font-size: 12pt;}
+/* Headers */
+h1,h2,h3,h4,h5,h6{font-size: 14pt; color: #00008B;}
+body {color: #333333;}
+a, a:hover {color: #8B3A62;}
+pre {font-size: 12px;}
+</style>
+
+Suggested citation: 
+
+> Mendez C. (2020).  Analysis in R: Using the  Package. R Studio/RPubs. Available at <https://rpubs.com/quarcs-lab/classical-convergence-reat21>
+
+This work is licensed under the Creative Commons Attribution-Share Alike 4.0 International License. 
+![](License.png)
+
+Acknowledgment:
+
+Material adapted from multiple sources, including
+
+# Libraries
+
+```{r message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)  # Modern data science workflow
+
+
+
+# Change the presentation of decimal numbers to 4 and avoid scientific notation
+options(prompt="R> ", digits=4, scipen=999)
+```
+
+# Replication files
+
+- All necessary files can be downloaded from  [TBA](TBA)
+
+- If you are a member of the [QuaRCS lab](https://quarcs-lab.rbind.io/), you can run this tutorial in [R Studio Cloud](TBA) and access the files in the following [Github Repository](TBA)
+
+
+# Tutorial objectives
+
+- 
+
+# Preliminary material
+
+-
+
+# Import the data
+
+
+# Transform the data
+
+
+# References
+
+
+
+END

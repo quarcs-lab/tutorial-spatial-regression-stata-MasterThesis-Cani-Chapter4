@@ -1,0 +1,7 @@
+
+
+. spshape2dta INDO_KAB_2016, replace
+  (importing .shp file)
+  (importing .dbf file)
+  (creating _ID spatial-unit id)
+  (creating _CX coordinate)
