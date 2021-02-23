@@ -1,17 +1,11 @@
+[![DOI](https://zenodo.org/badge/341060589.svg)](https://zenodo.org/badge/latestdoi/341060589)
+
+
 Regional Poverty, Convergence, and Spatial Effects:
 ================
 Ragdad Cani Miranti
 
-<style>
-h1.title {font-size: 18pt; color: DarkBlue;} 
-body, h1, h2, h3, h4 {font-family: "Palatino", serif;}
-body {font-size: 12pt;}
-/* Headers */
-h1,h2,h3,h4,h5,h6{font-size: 14pt; color: #00008B;}
-body {color: #333333;}
-a, a:hover {color: #8B3A62;}
-pre {font-size: 12px;}
-</style>
+
 
 
 Suggested citation: Miranti, Ragdad Cani. 2020. Regional Poverty,
